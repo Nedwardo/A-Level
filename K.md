@@ -12,7 +12,7 @@ Although there are lots of ways to get a heading, the easiset is with the hash (
 
 #Lists
 
- Unordered lists can be achieved using a variety of symbols (*, - or +)
+## Unordered lists can be achieved using a variety of symbols (*, - or +)
 
     * Item
     * Item
@@ -22,7 +22,7 @@ Although there are lots of ways to get a heading, the easiset is with the hash (
 * Item
 * Item
 
-    Ordered lists use numbers, but the order is automatically corrected on export
+## Ordered lists use numbers, but the order is automatically corrected on export
 
     1. Item 1
     2. Item 2
