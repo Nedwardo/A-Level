@@ -14,23 +14,28 @@ Although there are lots of ways to get a heading, the easiset is with the hash (
 
  Unordered lists can be achieved using a variety of symbols (*, - or +)
 
-* Item
-* Item
-* Item
+    * Item
+    * Item
+    * Item
 
-or
-
-- Item
-- Item
-- Item
+* Item
+* Item
+* Item
 
     Ordered lists use numbers, but the order is automatically corrected on export
+
+    1. Item 1
+    2. Item 2
+    3. Item 3
+    6. Item 4
+    2. Item 5
 
 1. Item 1
 2. Item 2
 3. Item 3
 6. Item 4
 2. Item 5
+
 
 Code
 
