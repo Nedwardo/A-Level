@@ -49,9 +49,11 @@ Although there are lots of ways to get a heading, the easiset is with the hash (
 
 #Links
 
-Write links like this
+###Write links like this
 
-[text to display](http://www.example.com)
+    [ayylmao](loli.dance)
+
+[ayylmao](loli.dance)
 
 Images
 
