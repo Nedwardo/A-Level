@@ -1,11 +1,11 @@
 # Headings
 
 Although there are lots of ways to get a heading, the easiset is with the hash (#) symbol.
-'''
-# A level one heading
-## A level two heading
-### a level three heading
-''''
+
+ # A level one heading
+ ## A level two heading
+ ### a level three heading
+
 #Lists
 
  Unordered lists can be achieved using a variety of symbols (*, - or +)
