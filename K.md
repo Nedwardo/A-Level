@@ -1,30 +1,14 @@
+# Headings
 
-Markdown Cheat Sheat
-Table of Contents
-Fork me on GitHub
-1 Markdown
-
-markdown.jpg
-Markdown
-
-    Markdown is a markup language.
-    We use markdown as it allows us to write content in plain-text without worrying about styles. We can then convert markdown into another format.
-
-Markdown Syntax
-
-    The best guide for Markdown syntax can be found on John Gruber's website as he invented the Markdown language. Here is a quick guide though
-
-Headings
-
-    Although there are lots of ways to get a heading, the easiset is with the hash (#) symbol.
-
+Although there are lots of ways to get a heading, the easiset is with the hash (#) symbol.
+'''
 # A level one heading
 ## A level two heading
 ### a level three heading
+''''
+#Lists
 
-Lists
-
-    Unordered lists can be achieved using a variety of symbols (*, - or +)
+ Unordered lists can be achieved using a variety of symbols (*, - or +)
 
 * Item
 * Item
