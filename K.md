@@ -12,7 +12,7 @@ Although there are lots of ways to get a heading, the easiset is with the hash (
 
 #Lists
 
-## Unordered lists can be achieved using a variety of symbols (*, - or +)
+### Unordered lists can be achieved using a variety of symbols (*, - or +)
 
     * Item
     * Item
@@ -22,7 +22,7 @@ Although there are lots of ways to get a heading, the easiset is with the hash (
 * Item
 * Item
 
-## Ordered lists use numbers, but the order is automatically corrected on export
+### Ordered lists use numbers, but the order is automatically corrected on export
 
     1. Item 1
     2. Item 2
@@ -37,19 +37,19 @@ Although there are lots of ways to get a heading, the easiset is with the hash (
 2. Item 5
 
 
-Code
+#Code
 
-    If you want to write code you just add a tab (4 space) before each line
+###If you want to write code you just add a tab (4 space) before each line
 
-foo = 6
-bar = 4
-foo = foo + bar
-bar = foo - bar
-foo = foo - bar
+    foo = 6
+    bar = 4
+    foo = foo + bar
+    bar = foo - bar
+    foo = foo - bar
 
-Links
+#Links
 
-    Write links like this
+Write links like this
 
 [text to display](http://www.example.com)
 
